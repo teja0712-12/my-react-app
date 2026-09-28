@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jordan Ellis",
+    "username": "admin",
+    "email": "admin@havenhouse.test",
+    "password": "welcome123",
+    "role": "Hostel administrator"
+  },
+  {
+    "name": "Casey Rivera",
+    "username": "manager",
+    "email": "manager@havenhouse.test",
+    "password": "stay1234",
+    "role": "Hostel manager"
+  }
+]
